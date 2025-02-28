@@ -1,7 +1,7 @@
 # Expense-Calculator-HTMl-CSS-Javascript-IBM-Coursera
 Expense-Calculator-HTMl-CSS-Javascript-IBM-Coursera
 
-## Site Link: 
+## Site URL: 
 https://expense-calculator-ibm.netlify.app/
 
 
